@@ -1,3 +1,3 @@
-# snmp-enumeration
+# SNMP Enumeration
 
-Miscellaneous scripts relating to SNMP enumeration.
+Several scripts aiding SNMP enumeration.
